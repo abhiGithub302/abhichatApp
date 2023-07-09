@@ -10,9 +10,12 @@ body{
 }
 .container{
     max-width: 955px;
-    background-color: red;
+    border: 2px solid black;
     margin: auto;
     height: 65vh;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 23px;
 }
 .message{
 background-color: gray;
